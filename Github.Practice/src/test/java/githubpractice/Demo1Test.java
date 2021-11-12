@@ -7,6 +7,9 @@ public class Demo1Test {
 	public void simple(){
 		System.out.println("hii......");
 		System.out.println("hello.....");
+		System.out.println("hiii....");
+		
+		System.out.println();
 	}
 
 }
